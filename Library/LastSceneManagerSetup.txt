@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/4331project.unity
+  isLoaded: 1
+  isActive: 1
